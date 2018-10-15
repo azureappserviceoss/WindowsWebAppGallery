@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+8dab925a93131099cc3436d0b4a7da80bebf8638 mediawiki-1.31.1-iis.zip
