@@ -1,4 +1,4 @@
 //
 // File Checksum Integrity Verifier version 2.05.
 //
-13e71dec9dfc3cb5b618ec75559bced202335ac8 c:\update\joomla_3.8.13.zip
+13e71dec9dfc3cb5b618ec75559bced202335ac8 joomla_3.8.13.zip

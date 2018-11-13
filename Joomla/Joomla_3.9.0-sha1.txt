@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+b8ba9aecd3dd4be1f55c03c657823ca1cc51cc8d joomla_3.9.0.zip
