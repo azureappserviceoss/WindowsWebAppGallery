@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+392f926f22692c4b18f0adfe09f3ec213f74db65 wordpress-5.0.3-iis.zip
