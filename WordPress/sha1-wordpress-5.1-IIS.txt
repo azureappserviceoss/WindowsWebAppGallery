@@ -1,0 +1,4 @@
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+55d199e93f692cdda5cfbeb25f83285625a0f666 d:\git\azure-windowswebappgallery\wordpress\wordpress-5.1-iis.zip
